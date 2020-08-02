@@ -26,3 +26,11 @@ th, td {
     margin: 5px 10px;
     padding: 6px;
 }
+
+.body-row:nth-child(odd) { 
+    background: rgb(176, 180, 159);
+}
+
+.body-row:nth-child(even) {
+    background: rgb(245, 243, 243);
+}
